@@ -1,0 +1,1 @@
+console.long("Welcome to git")
