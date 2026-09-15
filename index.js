@@ -5,5 +5,5 @@ function validateuser(){
     }
 }
 function calculateDiscount(amount){
-  return "final amount" + amount*10/100
+  return "final amount" + amount*40/100
 }
