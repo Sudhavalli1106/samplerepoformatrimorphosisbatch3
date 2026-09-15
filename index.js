@@ -4,3 +4,6 @@ function validateuser(){
         return true
     }
 }
+function calculateDiscount(amount){
+  return "final amount" + amount*10/100
+}
